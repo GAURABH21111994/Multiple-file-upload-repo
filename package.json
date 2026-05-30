@@ -1,0 +1,21 @@
+{
+  "name": "multiple-file-upload-repo",
+  "version": "1.0.0",
+  "description": "my multiple file demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAURABH21111994/Multiple-file-upload-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GAURABH21111994/Multiple-file-upload-repo/issues"
+  },
+  "homepage": "https://github.com/GAURABH21111994/Multiple-file-upload-repo#readme"
+}
